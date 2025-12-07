@@ -93,7 +93,7 @@ flutter:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/poem_9832008.png"
+  image_path: "assets/logo3.png"
   min_sdk_android: 21
   adaptive_icon_background: "#FFFFFF"
-  adaptive_icon_foreground: "assets/poem_9832008.png"
+  adaptive_icon_foreground: "assets/logo3.png"
